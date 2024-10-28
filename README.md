@@ -19,8 +19,8 @@ This project is a standalone PHP script for creating random pages on a WordPress
 
 1. **Download the Project Files**: Clone the repository or download the script file (`create-random-page.php`).
 
-   ```bash
-   git clone https://github.com/yourusername/random-wordpress-page-creator.git
+```bash
+git clone https://github.com/yourusername/random-wordpress-page-creator.git
 ````
 
 2. **Configure Database and Token**: Update the database connection details and security token in `create-random-page.php`:
